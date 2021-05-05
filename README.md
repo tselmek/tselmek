@@ -9,4 +9,4 @@
 - [Email](mailto:antoine.jesus@telecomnancy.net)
 - [LinkedIn](https://www.linkedin.com/in/antoine-jesus/)
 
-[![tselmek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tselmek&count_private=true&show_icons=true&hide=stars&custom_title=tselmek%20(Antoine%20J%C3%A9sus)%20%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
+[![tselmek's GitHub stats](https://github-readme-stats.vercel.app/api?username=tselmek&count_private=true&show_icons=true&hide=stars&custom_title=Antoine%20J%C3%A9sus%20(@tselmek)%20%20GitHub%20stats)](https://github.com/anuraghazra/github-readme-stats)
