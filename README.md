@@ -2,7 +2,9 @@
 
 - 📙 Young graduate of [TELECOM Nancy, Université de Lorraine](https://telecomnancy.univ-lorraine.fr/en)
 - 🌱 Learned about Green IT on my internship as Fullstack Software Engineer for [GreenFrame](https://greenframe.io/) at [Marmelab](https://marmelab.com/en/)
+- ☀️ Currently enrolled as a Fullstack Software Engineer Consultant at [EEKEM](https://eekem.fr/) in mission on a low-code platform at [iWE](https://iwecloud.com/)
 - 💞️ Passionate about Computer ~~Magic~~ Science 💻 and Linguistics 🌍
+- 😏 Working on a little something
 
 ## I'd love to chat with you 📫
 
