@@ -5,7 +5,7 @@
 - ☀️ Currently enrolled as a Fullstack Software Engineer in mission on a low-code platform at [iWE](https://iwecloud.com/)
 - 💞️ Passionate about Computer ~~Magic~~ Science 💻 and Linguistics 🌍
 - ⭐ President of [Alisé, the alumni association of TELECOM Nancy](https://www.alise.fr/)
-- 😏 Working on a little something
+- 😏 Working on [a little something](https://pyano.app)
 
 ## I'd love to chat with you 📫
 
