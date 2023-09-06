@@ -9,5 +9,5 @@
 
 ## I'd love to chat with you 📫
 
-- [Email](mailto:antoine.jesus@telecomnancy.net)
+- [Email](mailto:contact@antoine-jesus.com)
 - [LinkedIn](https://www.linkedin.com/in/antoine-jesus/)
