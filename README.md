@@ -4,7 +4,6 @@
 - 📙 Graduate of [TELECOM Nancy, Université de Lorraine](https://telecomnancy.univ-lorraine.fr/en)
 - 💞️ Passionate about Computer ~~Magic~~ Science 💻 and Linguistics 🌍
 - ⭐ President of [Alisé, the alumni association of TELECOM Nancy](https://alise.fr/)
-- 😏 Working on [a little something](https://pyano.app)
 
 ## I'd love to chat with you 📫
 
